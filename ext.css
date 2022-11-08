@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+    font-family: arial, sans-serif;
+    font-size: 50 em;
+}
+p{
+    font-size: 2 em;
+}
+h1{
+    width: 400px;
+    height: 150px;
+    background-color: rgba(127, 255, 212, 0.534);
+    border: double blue;
+    text-align: center;
+}
+a{
+    border: solid rgb(40, 40, 214);
+    width: 10px;
+    height: 10px;
+    color: rgb(8, 56, 68);
+    background-color: aliceblue;
+    padding: 2px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(8, 56, 68);
+    color:aliceblue;
+    border: aliceblue;
+}
